@@ -202,4 +202,6 @@
     <string name="password_length_should_not_be_less_than_4_and_greater_than_8">Password length should not be less than 4 and greater than 8.</string>
     <string name="new_password_length_should_not_be_less_than_4_and_greater_than_8">New Password length should not be less than 4 and greater than 8.</string>
     <string name="no_bank_found">No Bank Found</string>
+    <string name="john_n_carter">John\n Carter</string>
+    <string name="bank_of_england_of_tales">Bank of England of Tales</string>
 </resources>
